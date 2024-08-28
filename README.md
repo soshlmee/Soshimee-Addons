@@ -25,7 +25,7 @@ Questions that were never asked but will be answered:
 
 Download [ChatTriggers](https://chattriggers.com/) for 1.8.9.
 
-Download the latest version from [releases](https://github.com/soshimedev/Soshimee-Addons/releases).
+Download the latest version from [releases](https://github.com/soshlmee/Soshimee-Addons/releases).
 
 Extract the .7z into the ChatTriggers modules folder.
 
@@ -35,7 +35,7 @@ Enjoy!
 
 PromiseV2, BloomCore, fparser, requestV2, Vigilance, PogData, RenderLib
 
-Not sure if you have them? Download the modules [Here](https://github.com/soshimedev/SoshimeeAddonsLibs)
+Not sure if you have them? Download the modules [Here](https://github.com/soshlmee/ModuleLibrary)
 
 
 
